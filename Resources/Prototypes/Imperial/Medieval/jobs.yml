@@ -737,15 +737,6 @@
     - MedievalBeaker
 
 - type: loadout
-  id: MedievalSpellbookLight
-  effects:
-  - !type:GroupLoadoutEffect
-    proto: CollegiumTimer30hours
-  storage:
-    back:
-    - MedievalSpellbookLight
-
-- type: loadout
   id: MedievalMaskFace
   effects:
   - !type:GroupLoadoutEffect

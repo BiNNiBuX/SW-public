@@ -1454,36 +1454,6 @@
     delay: 0.5
 
 - type: entity
-  parent: ClothingBackpackSatchelCharmer
-  id: ClothingBackpackSatchelCharmerMag1
-  name: satchel
-  description: A trendy looking satchel.
-  components:
-  - type: StorageFill
-    contents:
-    - id: BaseMagicSpellbook75
-
-- type: entity
-  parent: ClothingBackpackSatchelCharmer
-  id: ClothingBackpackSatchelCharmerMag2
-  name: satchel
-  description: A trendy looking satchel.
-  components:
-  - type: StorageFill
-    contents:
-    - id: BaseMagicSpellbook
-
-- type: entity
-  parent: ClothingBackpackSatchelCharmer
-  id: ClothingBackpackSatchelCharmerMag3
-  name: satchel
-  description: A trendy looking satchel.
-  components:
-  - type: StorageFill
-    contents:
-    - id: BaseMagicSpellbook150
-
-- type: entity
   parent: MedievalClothingBackpackSatchelLeather
   id: MedievalClothingBackpackLeather
   name: satchel
